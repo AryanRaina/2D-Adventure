@@ -27,7 +27,7 @@ public class CutsceneManager {
 	
 	public CutsceneManager(GamePanel gp) {
 		this.gp = gp;
-		endCredit = "Made with ❤️ by Aryan Raina\n\n\n\n\n\n\n\n\n Special Thanks\nRyiSnow\n\n\n\n\n\n\n\n\n Thanks for playing";
+		endCredit = "Made with ❤️ by \nAryan Raina\nVansh Sharma \n\n\n\n\n\n\n\n\n Special Thanks\nRyiSnow\n\n\n\n\n\n\n\n\n Thanks for playing";
 	}
 	
 	public void draw(Graphics2D g2) {
