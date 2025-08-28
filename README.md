@@ -49,8 +49,8 @@ Gameplay is designed around **exploration, combat, and progression**, all manage
 3. Unzip and get the executable to play.
 
 Explore, collect items, fight enemies, and progress through levels!
-🔗 [📥 Download Executable (Google Drive)](https://drive.google.com/file/d/1RG4CEBEUfFKp3yCCA2apNyX0xp_h67Qs/view?usp=sharing)  
-🔗 [📂 Game Assets (Google Drive)](https://drive.google.com/drive/folders/1iwq7bhCr5Jl1V6waLu3Wrrtqwsec1kcG?usp=sharing)  
+-🔗 [📥 Download Executable (Google Drive)](https://drive.google.com/file/d/1RG4CEBEUfFKp3yCCA2apNyX0xp_h67Qs/view?usp=sharing)  
+-🔗 [📂 Game Assets (Google Drive)](https://drive.google.com/drive/folders/1iwq7bhCr5Jl1V6waLu3Wrrtqwsec1kcG?usp=sharing)  
 
 
 ---
