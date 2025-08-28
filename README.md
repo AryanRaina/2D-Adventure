@@ -56,12 +56,12 @@ Explore, collect items, fight enemies, and progress through levels!
 
 ## 📸 Screenshots  
 <p align="center">
-  <img width="957" height="598" alt="image" src="https://github.com/user-attachments/assets/8165a908-2424-404a-82fa-df1c26962d24" />
-  <img width="957" height="605" alt="image" src="https://github.com/user-attachments/assets/9efac42d-2478-4bbd-b338-a23c11b7bef4" />
-  <img width="1020" height="643" alt="image" src="https://github.com/user-attachments/assets/14048f4a-36d5-47d8-b6d0-37ef0019c784" />
-  <img width="1019" height="640" alt="image" src="https://github.com/user-attachments/assets/4350af84-e201-4dbe-8e37-cf7b0477b9de" />
-  <img width="1017" height="640" alt="image" src="https://github.com/user-attachments/assets/fcd7df61-cc6f-46bd-a9f8-6a73d5e8138e" />
-  <img width="1019" height="639" alt="image" src="https://github.com/user-attachments/assets/a2921961-1fc3-4c63-9662-7279463d4ee9" />
+  <img width="400" alt="image" src="https://github.com/user-attachments/assets/8165a908-2424-404a-82fa-df1c26962d24" />
+  <img width="400" alt="image" src="https://github.com/user-attachments/assets/9efac42d-2478-4bbd-b338-a23c11b7bef4" />
+  <img width="400" alt="image" src="https://github.com/user-attachments/assets/14048f4a-36d5-47d8-b6d0-37ef0019c784" />
+  <img width="400" alt="image" src="https://github.com/user-attachments/assets/4350af84-e201-4dbe-8e37-cf7b0477b9de" />
+  <img width="400" alt="image" src="https://github.com/user-attachments/assets/fcd7df61-cc6f-46bd-a9f8-6a73d5e8138e" />
+  <img width="400" alt="image" src="https://github.com/user-attachments/assets/a2921961-1fc3-4c63-9662-7279463d4ee9" />
 
 
   <img src="./screenshots/2.png" width="400" />
