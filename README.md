@@ -52,6 +52,18 @@ Explore, collect items, fight enemies, and progress through levels!
 🔗 [📥 Download Executable (Google Drive)](https://drive.google.com/file/d/1RG4CEBEUfFKp3yCCA2apNyX0xp_h67Qs/view?usp=sharing)  
 🔗 [📂 Game Assets (Google Drive)](https://drive.google.com/drive/folders/1iwq7bhCr5Jl1V6waLu3Wrrtqwsec1kcG?usp=sharing)  
 
+---
+
+## 📸 Screenshots  
+<p align="center">
+  <img src="./screenshots/1.png" width="400" />
+  <img src="./screenshots/2.png" width="400" />
+</p>  
+
+---
+
+## 🎥 Gameplay Walkthrough  
+[![Watch the video](https://img.youtube.com/vi/4SvEMh8TU8E/0.jpg)](https://www.youtube.com/watch?v=4SvEMh8TU8E)
 
 ---
 
