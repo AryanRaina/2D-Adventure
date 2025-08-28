@@ -63,7 +63,12 @@ Explore, collect items, fight enemies, and progress through levels!
 ---
 
 ## 🎥 Gameplay Walkthrough  
-[![Watch the video](https://img.youtube.com/vi/4SvEMh8TU8E/0.jpg)](https://www.youtube.com/watch?v=4SvEMh8TU8E)
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=4SvEMh8TU8E" target="_blank">
+    <img src="https://img.youtube.com/vi/4SvEMh8TU8E/0.jpg" alt="Watch the video" />
+  </a>
+</p>
 
 ---
 
