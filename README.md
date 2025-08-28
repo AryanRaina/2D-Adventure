@@ -35,10 +35,10 @@ Gameplay is designed around **exploration, combat, and progression**, all manage
 ---
 
 ## 📂 Project Structure  
-📦 Java-2D-Adventure-RPG
-┣ 📜 src/ # Java source code
-┣ 📜 assets/ # Sprites, sounds, and textures (linked via Google Drive)
-┣ 📜 README.md # Documentation
+📦 Java-2D-Adventure-RPG  
+┣ 📜 src/ # Java source code  
+┣ 📜 assets/ # Sprites, sounds, and textures (linked via Google Drive)  
+┣ 📜 README.md # Documentation  
 
 
 ---
@@ -50,7 +50,6 @@ Gameplay is designed around **exploration, combat, and progression**, all manage
 
 Explore, collect items, fight enemies, and progress through levels!  
 🔗 [📥 Download Executable (Google Drive)](https://drive.google.com/file/d/1RG4CEBEUfFKp3yCCA2apNyX0xp_h67Qs/view?usp=sharing)  
-
 🔗 [📂 Game Assets (Google Drive)](https://drive.google.com/drive/folders/1iwq7bhCr5Jl1V6waLu3Wrrtqwsec1kcG?usp=sharing)  
 
 
