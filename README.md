@@ -28,7 +28,7 @@ Gameplay is designed around **exploration, combat, and progression**, all manage
 
 ## 🛠️ Tools & Tech  
 - **Language**: Java  
-- **Libraries**: Swing, Java 2D API  
+- **Libraries**: Swing, Java Graphics2D
 - **Concepts**: OOP, Data Structures & Algorithms, A* Pathfinding  
 - **IDE**: IntelliJ IDEA / Eclipse  
 
