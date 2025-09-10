@@ -62,8 +62,6 @@ Explore, collect items, fight enemies, and progress through levels!
   <img width="400" alt="image" src="https://github.com/user-attachments/assets/3c2fc6bc-3570-4a4c-884f-2084c0d539b8" />
   <img width="400" alt="image" src="https://github.com/user-attachments/assets/c580db6e-bd68-4c01-8c23-3bde651ad47c" />
   <img width="400" alt="image" src="https://github.com/user-attachments/assets/22eb83df-3b19-4154-b179-ed45e08f83f8" />
-
-  <img width="400" alt="image" src="https://github.com/user-attachments/assets/a2921961-1fc3-4c63-9662-7279463d4ee9" />
 </p>  
 
 ---
