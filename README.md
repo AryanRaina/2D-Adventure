@@ -10,7 +10,7 @@
 
 ## 📌 Overview  
 A **2D adventure game inspired by classic RPGs**, built in Java using the **Swing library** and **Java2D graphics**.  
-The game features a **tile-based world**, player movement, item collection, enemy encounters, and AI-driven monsters powered by the **A** algorithm**.  
+The game features a **tile-based world**, player movement, item collection, enemy encounters, and AI-driven monsters powered by the **A\* algorithm**.  
 
 Gameplay is designed around **exploration, combat, and progression**, all managed through clean, modular OOP code.  
 
